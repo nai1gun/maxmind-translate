@@ -6,3 +6,6 @@ Powered by Yandex translate
 To start using please add your Yandex API key to Config class.
 
 To achieve API key for Yandex translate please follow the instructions: https://tech.yandex.com/translate/
+
+### Requirements:
+Java 8, Maven 2
